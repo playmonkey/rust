@@ -1,5 +1,5 @@
 # Rust
-Rust - (Smart contracts development for Solana et al)
+Rust - (Smart contract development for Solana et al)
 
 Rust has been gaining popularity in blockchain development, particularly for smart contracts, due to its focus on safety, concurrency, and performance. Here are some prominent blockchain platforms that support Rust for smart contract development:
 
