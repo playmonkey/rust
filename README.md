@@ -1,4 +1,4 @@
-# Rust
+# Blockchains using Rust
 Rust - Info and tutorials on smart contract development for Solana, Near Protocol et al
 
 Rust has been gaining popularity in blockchain development, particularly for smart contracts, due to its focus on safety, concurrency, and performance. Here are some prominent blockchain platforms that support Rust for smart contract development:
