@@ -43,3 +43,29 @@ Rust has been gaining popularity in blockchain development, particularly for sma
     - Some chains in the Cosmos ecosystem support Rust for smart contract development, especially those built with the CosmWasm framework.
 
 The ecosystem is rapidly evolving, and more platforms are likely to adopt Rust for smart contract development due to its advantages in terms of safety and performance. 
+
+Developing with Solana
+
+   Some valuable links to developing contracts for the Solana blockchain:
+
+   Solana Developer Documentation: https://docs.solana.com/
+   This official documentation provides comprehensive guides, tutorials, and examples on Solana development, including Rust-specific information.
+
+   Solana Rust Cookbook: https://solana.com/docs/programs/lang-rust
+   A collection of practical examples and recipes for common tasks in Solana Rust development, making it a great resource for learning by doing.
+
+   Solana Rust Tutorial Series: https://www.youtube.com/watch?v=-AAtfPHEMbA
+   This video series offers step-by-step tutorials and explanations, making it a visually engaging way to learn Solana Rust development.
+
+   Solana Rust Community and Forums: https://discord.com/invite/solana-community-926762104667648000
+   Engage with other developers, ask questions, and learn from their experiences in the Solana Rust community.
+
+   Solana Rust Code Examples and Projects: https://github.com/ronanyeah/solana-rust-examples
+   Explore open-source projects and code examples to understand how Rust is used in real-world Solana applications.
+
+   By leveraging these resources, you can gain a solid foundation in Solana Rust development and start building your own smart contracts on the Solana blockchain.
+
+
+
+
+
