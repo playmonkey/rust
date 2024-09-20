@@ -65,7 +65,22 @@ The ecosystem is rapidly evolving, and more platforms are likely to adopt Rust f
 
    By leveraging these resources, you can gain a solid foundation in Solana Rust development and start building your own smart contracts on the Solana blockchain.
 
+# Near Protocol
 
+Here are 5 resources to help you get started with writing smart contracts on the Near Protocol:
 
+1. Near Protocol Developer Documentation: https://docs.near.org/
+   This official documentation provides comprehensive guides, tutorials, and examples on Near Protocol development, including Rust-specific information.
 
+2. Near Protocol Rust SDK: https://github.com/near/near-sdk-rs
+   Content:** The official Rust SDK for interacting with the Near Protocol blockchain. This is essential for developing smart contracts and interacting with the network.
+
+3. Near Protocol Community Forums: https://gov.near.org/
+   A vibrant community where you can ask questions, get help, and learn from other developers working on Near Protocol.
+
+4. Near Protocol Developer Tutorials: https://www.youtube.com/channel/UCuKdIYVN8iE3fv8alyk1aMw
+   Many developers have created tutorials and courses on Near Protocol development, providing step-by-step guidance and examples.
+
+5. Open-Source Projects and Code Examples: https://github.com/near
+   Explore open-source projects and code examples on GitHub to learn from others and get inspiration for your own smart contract development.
 
