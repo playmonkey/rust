@@ -65,7 +65,7 @@ The ecosystem is rapidly evolving, and more platforms are likely to adopt Rust f
 
    By leveraging these resources, you can gain a solid foundation in Solana Rust development and start building your own smart contracts on the Solana blockchain.
 
-# Near Protocol
+# Developing with the Near Protocol
 
 Here are 5 resources to help you get started with writing smart contracts on the Near Protocol:
 
