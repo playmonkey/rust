@@ -19,8 +19,9 @@ Rust is a modern systems programming language known for its safety, performance,
 
 6. Memory Safety in Rust: https://blog.adacore.com/memory-safety-in-rust
    A good article on the strengths of Rust with memory safety using the compiler feature known as the borrow checker.  
-   
-The best way to learn Rust is through practice. Start with simple projects and gradually increase the complexity as you gain confidence.
+
+7. Learn Rust for Complete Beginners: https://www.youtube.com/watch?v=BpPEoZW5IiY   
+   A thirteen hour course for beginners, learn about the core concepts of the language and underlying mechanisms in theory. .
 
 # Blockchains using Rust
 Rust - Info and tutorials on smart contract development for Solana, Near Protocol et al
