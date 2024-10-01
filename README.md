@@ -21,7 +21,7 @@ Rust is a modern systems programming language known for its safety, performance,
    A good article on the strengths of Rust with memory safety using the compiler feature known as the borrow checker.  
 
 7. Learn Rust for Complete Beginners: https://www.youtube.com/watch?v=BpPEoZW5IiY   
-   A thirteen hour course for beginners, learn about the core concepts of the language and underlying mechanisms in theory. .
+   A thirteen hour course for beginners, learn about the core concepts of the language and underlying mechanisms in theory.
 
 # Blockchains using Rust
 Rust - Info and tutorials on smart contract development for Solana, Near Protocol et al
