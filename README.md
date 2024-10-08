@@ -9,7 +9,7 @@ Rust is a modern systems programming language known for its safety, performance,
    Exercism is a platform that provides coding challenges in various languages, including Rust. You can solve problems, get feedback from mentors, and improve your skills in a collaborative environment.
 
 3. Rustlings: https://github.com/rust-lang/rustlings
-   Rustlings is a collection of small exercises to help you get familiar with the Rust language. It's a great way to practice and solidify your understanding of Rust concepts.
+   Rustlings is a collection of small exercises to help you get familiar with the Rust language. It's a great way to practice and solidify your    understanding of Rust concepts.
 
 4. Rust by Example: https://doc.rust-lang.org/rust-by-example/
    This website provides concise examples of various Rust features, making it a valuable resource for quick reference and learning through practical examples.
@@ -22,6 +22,9 @@ Rust is a modern systems programming language known for its safety, performance,
 
 7. Learn Rust for Complete Beginners: https://www.youtube.com/watch?v=BpPEoZW5IiY   
    A thirteen hour course for beginners, learn about the core concepts of the language and underlying mechanisms in theory.
+
+8. Rust 101 Crash Course: Learn Rust (6 HOURS!) + 19 Practice Exercises | Zero To Mastery: https://www.youtube.com/watch?v=lzKeecy4OmQ
+   Another good youtube course for learning rust. Worth a look! 
 
 # Blockchains using Rust
 Rust - Info and tutorials on smart contract development for Solana, Near Protocol et al
