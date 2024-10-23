@@ -85,18 +85,23 @@ The ecosystem is rapidly evolving, and more platforms are likely to adopt Rust f
    Some valuable links to developing contracts for the Solana blockchain:
 
 1. Solana Developer Documentation: https://docs.solana.com/
+
    This official documentation provides comprehensive guides, tutorials, and examples on Solana development, including Rust-specific information.
 
 2. Solana Rust Cookbook: https://solana.com/docs/programs/lang-rust
+
    A collection of practical examples and recipes for common tasks in Solana Rust development, making it a great resource for learning by doing.
 
 3. Solana Rust Tutorial Series: https://www.youtube.com/watch?v=-AAtfPHEMbA
+
    This video series offers step-by-step tutorials and explanations, making it a visually engaging way to learn Solana Rust development.
 
 4. Solana Rust Community and Forums: https://discord.com/invite/solana-community-926762104667648000
+
    Engage with other developers, ask questions, and learn from their experiences in the Solana Rust community.
 
 5. Solana Rust Code Examples and Projects: https://github.com/ronanyeah/solana-rust-examples
+
    Explore open-source projects and code examples to understand how Rust is used in real-world Solana applications.
 
    By leveraging these resources, you can gain a solid foundation in Solana Rust development and start building your own smart contracts on the Solana blockchain.
@@ -106,17 +111,22 @@ The ecosystem is rapidly evolving, and more platforms are likely to adopt Rust f
 Here are 5 resources to help you get started with writing smart contracts on the Near Protocol:
 
 1. Near Protocol Developer Documentation: https://docs.near.org/
+
    This official documentation provides comprehensive guides, tutorials, and examples on Near Protocol development, including Rust-specific information.
 
 2. Near Protocol Rust SDK: https://github.com/near/near-sdk-rs
+
    Content:** The official Rust SDK for interacting with the Near Protocol blockchain. This is essential for developing smart contracts and interacting with the network.
 
 3. Near Protocol Community Forums: https://gov.near.org/
+
    A vibrant community where you can ask questions, get help, and learn from other developers working on Near Protocol.
 
 4. Near Protocol Developer Tutorials: https://www.youtube.com/channel/UCuKdIYVN8iE3fv8alyk1aMw
+
    Many developers have created tutorials and courses on Near Protocol development, providing step-by-step guidance and examples.
 
 5. Open-Source Projects and Code Examples: https://github.com/near
+
    Explore open-source projects and code examples on GitHub to learn from others and get inspiration for your own smart contract development.
 
