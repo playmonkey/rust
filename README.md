@@ -3,27 +3,35 @@
 Rust is a modern systems programming language known for its safety, performance, and concurrency. If you're new to Rust, here are some excellent resources to get you started:
 
 1. The Rust Book: https://doc.rust-lang.org/book/
+
    The official Rust book is a comprehensive guide that covers everything from the basics to advanced topics. It's well-structured, easy to follow, and has interactive exercises to reinforce learning.
 
 2. Exercism: https://exercism.org/
+
    Exercism is a platform that provides coding challenges in various languages, including Rust. You can solve problems, get feedback from mentors, and improve your skills in a collaborative environment.
 
 3. Rustlings: https://github.com/rust-lang/rustlings
+
    Rustlings is a collection of small exercises to help you get familiar with the Rust language. It's a great way to practice and solidify your    understanding of Rust concepts.
 
 4. Rust by Example: https://doc.rust-lang.org/rust-by-example/
+
    This website provides concise examples of various Rust features, making it a valuable resource for quick reference and learning through practical examples.
 
 5. The Rust Community: https://www.rust-lang.org/community
+
    The Rust community is friendly and supportive. Engage with other Rustaceans on forums, Discord channels, and online communities to ask questions, share knowledge, and learn together.
 
 6. Memory Safety in Rust: https://blog.adacore.com/memory-safety-in-rust
+
    A good article on the strengths of Rust with memory safety using the compiler feature known as the borrow checker.  
 
-7. Learn Rust for Complete Beginners: https://www.youtube.com/watch?v=BpPEoZW5IiY   
+7. Learn Rust for Complete Beginners: https://www.youtube.com/watch?v=BpPEoZW5IiY
+
    A thirteen hour course for beginners, learn about the core concepts of the language and underlying mechanisms in theory.
 
 8. Rust 101 Crash Course: Learn Rust (6 HOURS!): https://www.youtube.com/watch?v=lzKeecy4OmQ
+
    Another good youtube course for learning rust. Worth a look! 
 
 # Blockchains using Rust
