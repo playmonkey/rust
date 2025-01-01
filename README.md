@@ -77,6 +77,10 @@ Rust has been gaining popularity in blockchain development, particularly for sma
 
 10. Cosmos ecosystem:
     - Some chains in the Cosmos ecosystem support Rust for smart contract development, especially those built with the CosmWasm framework.
+   
+11. Stellar Network
+    - Stellar is a layer-1 open-source, decentralized, peer-to-peer blockchain network that provides a framework for developers to create
+      applications, issue assets, write smart contracts, and connect to existing financial rails.
 
 The ecosystem is rapidly evolving, and more platforms are likely to adopt Rust for smart contract development due to its advantages in terms of safety and performance. 
 
