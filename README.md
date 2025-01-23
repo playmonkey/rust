@@ -82,6 +82,10 @@ Rust has been gaining popularity in blockchain development, particularly for sma
     - Stellar is a layer-1 open-source, decentralized, peer-to-peer blockchain network that provides a framework for developers to create
       applications, issue assets, write smart contracts, and connect to existing financial rails.
 
+12. MultiversX:
+    - This chain aims to create a high-performance, scalable blockchain platform that enables fast transactions, interoperability between
+      different blockchains, and supports the development dApps with advanced features like cross-chain communication and Layer 2 scaling solutions. 
+
 The ecosystem is rapidly evolving, and more platforms are likely to adopt Rust for smart contract development due to its advantages in terms of safety and performance. 
 
 # Developing with Solana
