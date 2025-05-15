@@ -137,3 +137,8 @@ Here are 5 resources to help you get started with writing smart contracts on the
 5. Open-Source Projects and Code Examples: https://github.com/near
 
    Explore open-source projects and code examples on GitHub to learn from others and get inspiration for your own smart contract development.
+
+# Developing with Polkadot
+
+1. Take a look at Polkadot SDK for devs looking to build on the Polkadot network: https://polkadotecosystem.com/tools/dev/polkadot-sdk/
+
