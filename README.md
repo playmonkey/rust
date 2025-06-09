@@ -34,7 +34,7 @@ Rust is a modern systems programming language known for its safety, performance,
 
    Another good youtube course for learning rust. Worth a look!
 
-9.  The Rust Bookshelf: https://bookshelf.rs/
+9. The Rust Bookshelf: https://bookshelf.rs/
 
    Well worth checking out! A library of free resources for learning Rust
 
