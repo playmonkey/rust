@@ -32,7 +32,11 @@ Rust is a modern systems programming language known for its safety, performance,
 
 8. Rust 101 Crash Course: Learn Rust (6 HOURS!): https://www.youtube.com/watch?v=lzKeecy4OmQ
 
-   Another good youtube course for learning rust. Worth a look! 
+   Another good youtube course for learning rust. Worth a look!
+
+9.  The Rust Bookshelf: https://bookshelf.rs/
+
+   Well worth checking out! A library of free resources for learning Rust
 
 # Blockchains using Rust Code
 Rust - Info and tutorials on smart contract development for Solana, Near Protocol et al
